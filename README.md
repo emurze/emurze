@@ -7,7 +7,7 @@ conduct code testings using pytest, unittest, and selenium.
 Backend
   * Python
   * Django
-  * Django Rest Framework
+  * *Django Rest Framework studying*
   * Celery
   * RabbitMQ
 
@@ -24,7 +24,7 @@ Code Quality
   * e2etests using selenium
 
 Architecture and Design
-  * *DDD studing*
+  * *DDD studying*
 
 DevOps
   * CI / CD
