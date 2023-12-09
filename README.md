@@ -23,6 +23,9 @@ Code Quality
   * unittest
   * e2etests using selenium
 
+Architecture and Design
+  * *learn DDD*
+
 DevOps
   * CI / CD
   * Docker and Docker compose
