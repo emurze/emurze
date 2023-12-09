@@ -25,7 +25,6 @@ Code Quality
 
 DevOps
   * CI / CD
-  * Agile
   * Docker and Docker compose
 
 Frontend:
