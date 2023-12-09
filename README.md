@@ -27,6 +27,7 @@ Architecture and Design
   * *DDD studying*
 
 DevOps
+  * nginx
   * CI / CD
   * Docker and Docker compose
 
