@@ -24,7 +24,7 @@ Code Quality
   * e2etests using selenium
 
 Architecture and Design
-  * *learn DDD*
+  * *DDD studing*
 
 DevOps
   * CI / CD
