@@ -6,8 +6,7 @@ conduct code testings using pytest, unittest, and selenium.
 
 Backend
   * Python
-  * Django
-  * *Django Rest Framework studying*
+  * Django | *DRF studying*
   * Celery
   * RabbitMQ
 
@@ -17,10 +16,8 @@ Databases:
   * Redis
 
 Code Quality
-  * black
   * mypy
-  * pytest
-  * unittest
+  * pytest | unittest
   * e2etests using selenium
 
 Architecture and Design
@@ -29,9 +26,8 @@ Architecture and Design
 DevOps
   * nginx
   * CI / CD
-  * Docker and Docker compose
+  * Docker | Docker compose
 
 Frontend:
   * js
-  * html
-  * css
+  * html | css
