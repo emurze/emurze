@@ -17,11 +17,8 @@ Databases:
 
 Code Quality
   * mypy
-  * pytest | unittest
+  * *pytest* | unittest
   * e2etests using selenium
-
-Architecture and Design
-  * *DDD studying*
 
 DevOps
   * nginx
@@ -31,3 +28,6 @@ DevOps
 Frontend:
   * js
   * html | css
+
+Architecture and Design Patterns
+  * *DDD studying*
