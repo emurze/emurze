@@ -11,8 +11,7 @@ Backend
   * RabbitMQ
 
 Databases:
-  * SQL
-  * PostgreSQL
+  * PostgreSQL ( SQL )
   * Redis
 
 Code Quality
