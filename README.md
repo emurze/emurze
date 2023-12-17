@@ -29,4 +29,5 @@ Frontend:
   * html | css
 
 Architecture and Design Patterns
+  * *Clean Architecture studying*
   * *DDD studying*
