@@ -16,7 +16,7 @@ Databases:
 
 Code Quality
   * mypy
-  * *pytest* | unittest
+  * pytest | unittest
   * e2etests using selenium
 
 DevOps
