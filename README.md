@@ -16,8 +16,9 @@ Databases
   * Redis
 
 Tests
-  * pytest, unittest
-  * e2etests using selenium
+  * unittest
+  * pytest
+  * selenium
 
 DevOps
   * gunicorn
