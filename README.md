@@ -11,12 +11,11 @@ Backend
   * Celery
   * RabbitMQ
 
-Databases:
+Databases
   * PostgreSQL ( SQL )
   * Redis
 
-Code Quality
-  * mypy
+Tests
   * pytest, unittest
   * e2etests using selenium
 
