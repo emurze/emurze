@@ -7,6 +7,7 @@ conduct code testings using pytest, unittest, and selenium.
 Backend
   * Python
   * Django, DRF
+  * SqlAlchemy
   * FastAPI
   * Celery
   * RabbitMQ
