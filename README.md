@@ -22,7 +22,7 @@ Tests
   * selenium
 
 DevOps
-  * gunicorn
+  * uvicorn, gunicorn
   * nginx
   * CI / CD
   * Docker | Docker compose
