@@ -6,15 +6,13 @@ conduct code testings using pytest, unittest, and selenium.
 
 Backend
   * Python
-  * Frameworks
-     * Django, DRF
-     * FastAPI
-  * Other
-     * SqlAlchemy
-     * Celery
-     * RabbitMQ
-     * PostgreSQL
-     * Redis
+  * Django, DRF
+  * FastAPI
+  * SqlAlchemy
+  * Celery
+  * RabbitMQ
+  * PostgreSQL
+  * Redis
 
 Tests
   * unittest
