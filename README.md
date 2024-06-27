@@ -26,6 +26,7 @@ DevOps
   * Docker | Docker compose
 
 Frontend:
-  * js
-  * html / css
-
+  * React
+  * ts
+  * html / scss
+  
