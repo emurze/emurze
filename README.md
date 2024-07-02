@@ -4,7 +4,7 @@ I specialize in developing backend services using Django, DRF, and FastAPI.
 In addition, I utilize PostgreSQL, Docker, Redis, RabbitMQ, Celery, and also 
 conduct code testings using pytest, unittest, and selenium.
 
-Backend
+Stack
   * Python
   * Django, DRF
   * FastAPI
@@ -13,20 +13,12 @@ Backend
   * RabbitMQ
   * PostgreSQL
   * Redis
+  * unittest / pytest / selenium
+  * js / html / scss
 
-Tests
-  * unittest
-  * pytest
-  * selenium
-
-DevOps
+Containerization
   * uvicorn, gunicorn
   * nginx
   * CI / CD
   * Docker | Docker compose
-
-Frontend:
-  * React / Redux Toolkit
-  * ts
-  * html / scss
   
