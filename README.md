@@ -1,4 +1,4 @@
-## Hi there 👋 I'm python backend developer
+## Hi there I'm python backend developer
 
 I specialize in developing backend services using Django, DRF, and FastAPI.
 In addition, I utilize PostgreSQL, Docker, Redis, RabbitMQ, Celery, and also 
