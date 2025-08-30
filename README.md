@@ -6,14 +6,14 @@ Passionate about programming since school, I have years of experience in web app
 - **Backend**: Python,
 - **Frontend**: JavaScript / TypeScript
   
-**Backend**
+**Backend Technologies**
 - **Frameworks**: Django, Django Rest Framework (DRF), FastAPI, Flask, Aiohttp
 - **Async & Task Queues**: Celery, Asyncio
 - **ORM & Validation**: SQLAlchemy, Pydantic, Alembic
 - **API Tools**: Swagger / OpenAPI
 - **Testing**: Pytest, Unittest, Selenium
 
-**Frontend**
+**Frontend Technologies**
 - **Frameworks & State Management**: React, Redux
 - **UI & Styling**: Material UI, HTML5, CSS3, Bootstrap
 - **HTTP & API Handling**: Axios
