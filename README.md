@@ -1,10 +1,10 @@
-## Hi there 👋 I'm python backend developer
+## Hi there 👋 I'm Python Backend Developer
 
 Passionate about programming since school, I have years of experience in web application development. I enjoy creating innovative solutions and expanding my expertise by staying up to date with the latest technologies.
 
 **Programming languages**
-- **Primary**: Python,
-- **Secondary**: JavaScript / TypeScript
+- **Backend**: Python,
+- **Frontend**: JavaScript / TypeScript
   
 **Backend**
 - **Frameworks**: Django, Django Rest Framework (DRF), FastAPI, Flask, Aiohttp
