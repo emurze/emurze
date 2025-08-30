@@ -3,8 +3,7 @@
 Passionate about programming since school, I have years of experience in web application development. I enjoy creating innovative solutions and expanding my expertise by staying up to date with the latest technologies.
 
 **Programming languages**
-- Python
-- JavaScript / TypeScript
+- Python, JavaScript / TypeScript
   
 **Backend**
 - **Frameworks**: Django, Django Rest Framework (DRF), FastAPI, Flask, Aiohttp
@@ -22,14 +21,10 @@ Passionate about programming since school, I have years of experience in web app
 - **NoSQL**: MongoDB, Redis, Cosmos DB, DynamoDB
 
 **Message brokers**
-- RabbitMQ
-- Kafka
-- AWS SQS
-- Azure Service Bus.
+- RabbitMQ, Kafka, AWS SQS, Azure Service Bus
 
 **Cloud**
-- AWS
-- Azure
+- AWS, Azure
 
 **DevOps**
 - **Containers & Orchestration**: Docker, Docker Compose, Kubernetes (k8s)
