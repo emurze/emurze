@@ -3,7 +3,8 @@
 Passionate about programming since school, I have years of experience in web application development. I enjoy creating innovative solutions and expanding my expertise by staying up to date with the latest technologies.
 
 **Programming languages**
-- Python, JavaScript / TypeScript
+- **Primary**: Python,
+- **Secondary**: JavaScript / TypeScript
   
 **Backend**
 - **Frameworks**: Django, Django Rest Framework (DRF), FastAPI, Flask, Aiohttp
@@ -13,18 +14,21 @@ Passionate about programming since school, I have years of experience in web app
 - **Testing**: Pytest, Unittest, Selenium
 
 **Frontend**
-- React, Redux, Material UI
-- Axios, HTML5, CSS3, Bootstrap.
+- **Frameworks & State Management**: React, Redux
+- **UI & Styling**: Material UI, HTML5, CSS3, Bootstrap
+- **HTTP & API Handling**: Axios
 
 **Databases**
 - **Relational**: PostgreSQL
 - **NoSQL**: MongoDB, Redis, Cosmos DB, DynamoDB
 
 **Message brokers**
-- RabbitMQ, Kafka, AWS SQS, Azure Service Bus
+- **Core Message Brokers**: RabbitMQ, Kafka,
+- **Cloud Services**: AWS SQS, Azure Service Bus
 
-**Cloud**
-- AWS, Azure
+**Cloud Platforms**
+- **AWS**: S3, EC2, ECS, EKS, Lambda, API Gateway, SQS, SNS, CloudWatch, IAM
+- **Azure**: Functions, App Service, Blob Storage, Service Bus, Key Vault, Entra ID
 
 **DevOps**
 - **Containers & Orchestration**: Docker, Docker Compose, Kubernetes (k8s)
