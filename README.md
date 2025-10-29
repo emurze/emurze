@@ -20,19 +20,13 @@ Passionate about programming since school, I have years of experience in web app
 
 **Databases**
 - **Relational**: PostgreSQL
-- **NoSQL**: MongoDB, Redis, Cosmos DB, DynamoDB
+- **NoSQL**: MongoDB, Redis
 
 **Message brokers**
 - **Core Message Brokers**: RabbitMQ, Kafka,
 - **Cloud Services**: AWS SQS, Azure Service Bus
 
-**Cloud Platforms**
-- **AWS**: S3, EC2, ECS, EKS, Lambda, API Gateway, SQS, SNS, CloudWatch, IAM
-- **Azure**: Functions, App Service, Blob Storage, Service Bus, Key Vault, Entra ID
-
 **DevOps**
-- **Containers & Orchestration**: Docker, Docker Compose, Kubernetes (k8s)
+- **Containers & Orchestration**: Docker, Docker Compose
 - **CI/CD**: GitLab CI/CD, GitHub Actions
-- **Infrastructure as Code**: Terraform
-- **Monitoring**: AWS CloudWatch, Grafana, Prometheus
 - **OS**: Linux
